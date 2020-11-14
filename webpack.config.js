@@ -2,7 +2,7 @@ var path = require('path');
 
 module.exports = {
     mode: 'production',
-    entry: './src/rating.jsx',
+    entry: './src/modal.jsx',
     output: {
         path: path.resolve('lib'),
         filename: 'index.js',
