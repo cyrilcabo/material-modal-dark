@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 //Material components
 import Grid from '@material-ui/core/Grid';
@@ -87,6 +88,13 @@ const Modal = (props) => {
 			`}</style>
 		</Grid>
 		:"";
+}
+
+Modal.propTypes = {
+	dark: PropTypes.bool,
+	open: PropTypes.bool.isRequired,
+	handleClose: PropTypes.func.isRequired,
+	children: PropTypes.element.isRequired
 }
 
 export default Modal;
