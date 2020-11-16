@@ -16,8 +16,8 @@
 * **handleClose** (`required` **|** `function` **|** `default:null`) - fires when the component should close
 * **children** (`required` **|** `JSX.Element` **|** `default:''`) - the content of the modal
 
-## Demo
-```
+## Sample Usage
+```JSX
 import React from 'react';
 import Modal from 'material-modal-dark;
 
@@ -39,3 +39,11 @@ const Component = () => {
 
 export default Component;
 ```
+
+## Demo
+
+### Web view:
+![Demo web view](https://drive.google.com/uc?export=view&id=1lKl9o8Z0SCm0vxMOO49nw8yWo0jBywJ2)
+
+### Mobile view
+![Demo mobile view](https://drive.google.com/uc?export=view&id=1jKwsgedqj822F-bztfE9XkCyC235NPRH)
