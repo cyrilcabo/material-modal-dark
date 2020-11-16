@@ -45,5 +45,5 @@ export default Component;
 ### Web view:
 ![Demo web view](https://drive.google.com/uc?export=view&id=1lKl9o8Z0SCm0vxMOO49nw8yWo0jBywJ2)
 
-### Mobile view
+### Mobile view:
 ![Demo mobile view](https://drive.google.com/uc?export=view&id=1jKwsgedqj822F-bztfE9XkCyC235NPRH)
